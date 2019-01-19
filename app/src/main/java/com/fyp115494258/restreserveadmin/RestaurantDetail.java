@@ -69,7 +69,7 @@ public class RestaurantDetail extends AppCompatActivity {
         recycler_time.setLayoutManager(layoutManager);
 
 
-
+//
 
         restaurant_description = (TextView) findViewById(R.id.restaurant_description);
         restaurant_name = (TextView) findViewById(R.id.restaurant_name);
