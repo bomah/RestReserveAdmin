@@ -448,6 +448,7 @@ public class Home extends AppCompatActivity
 
         //set default name
         edtName.setText(item.getName());
+        edtAdminPhoneNumber.setText(item.getAdminPhoneNumber());
 
 
         //Event for button
